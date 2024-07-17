@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpendra24-7&show_icons=true&locale=en&layout=compact" alt="pushpendra24-7" /></p>
+<p><img align="left" style="background:black;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpendra24-7&show_icons=true&locale=en&layout=compact" alt="pushpendra24-7" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpendra24-7&" alt="pushpendra24-7" /></p>
